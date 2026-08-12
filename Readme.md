@@ -46,7 +46,6 @@ Using Exploratory Data Analysis (EDA) in Google Colab and an interactive dashboa
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](images/dashboard.png)
 
 ![Dashboard Preview](images/dashboard-up.png)
 
